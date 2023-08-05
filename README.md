@@ -17,6 +17,14 @@ Get up-to-date weather information and forecasts at your fingertips with Weather
 - CSS (or CSS-in-JS libraries like styled-components): Styling and layout design.
 - Axios: For making API requests.
 
+# ScreenShots of the WeatherApp 
+
+![SCR2](https://github.com/SaiSantosh2209/WeatherNova/assets/83724995/fb70e63a-01cb-4ef9-8898-00dca237687a)
+
+![SCR1](https://github.com/SaiSantosh2209/WeatherNova/assets/83724995/09dd1601-24c0-4fec-88be-a5cc38e5fcc1)
+
+
+
 ## Getting Started
 
 1. Clone this repository:
