@@ -1,4 +1,4 @@
-# WeatherNow - Your Real-Time Weather Companion
+# WeatherNowa - Your Real-Time Weather Companion
 
 Get up-to-date weather information and forecasts at your fingertips with WeatherNow! This React-powered website leverages the OpenWeather API to provide accurate and real-time weather data for any location worldwide.
 
