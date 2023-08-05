@@ -2,8 +2,6 @@
 
 Get up-to-date weather information and forecasts at your fingertips with WeatherNow! This React-powered website leverages the OpenWeather API to provide accurate and real-time weather data for any location worldwide.
 
-![WeatherNowa Screenshot](SCR1.png)
-![WeatherNowa Screenshot](SCR2.png)
 
 ## Features
 
