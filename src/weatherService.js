@@ -1,6 +1,6 @@
-const API_KEY ='6541351d0968430508647af3cd9a5f7d'
+const API_KEY ='Your Api Key'
 
-const makeIconURL = (iconId) => `https://openweathermap.org/img/wn/${iconId}@2x.png`
+const makeIconURL = (iconId) => `icon url`
 
 
 const getFormattedWeatherData =async (city,units='metric') => {
